@@ -1,3 +1,6 @@
+> [!WARNING]
+> This Terraform provider has been deprecated in favor of the official Momento provider found here: <https://github.com/momentohq/terraform-provider-momento>
+
 # Momento Terraform Provider
 
 A terraform provider to manage [Momento](https://www.gomomento.com/) resources.
